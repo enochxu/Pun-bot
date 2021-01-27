@@ -1,0 +1,29 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "async-limiter": "^1.0.0",
+    "discord-anti-spam": "^1.1.1",
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.1.1",
+    "node-opus": "^0.3.0",
+    "ytdl-core": "^0.20.4"
+  },
+  "name": "pun-bot",
+  "version": "1.0.0",
+  "description": "best bot",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.1",
+    "npm": "6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "Enoch Xu",
+  "license": "ISC"
+}
